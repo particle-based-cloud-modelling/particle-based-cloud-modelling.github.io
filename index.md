@@ -1,11 +1,17 @@
 # Particle-Based Cloud Modelling
 
-## Mailing list
+Research Network Initiative
+
+## Mailing List
 
 Venue for communications relevant to the development and applications of particle-based models of atmospheric clouds: announcements of meetings, calls for submissions, funding opportunities, scholarships, openings, software/data releases, publications and other notices warranting community-wide dissemination.
 
 Archives and subscription management:    
 [https://groups.google.com/d/forum/particle-based-cloud-modelling](https://groups.google.com/d/forum/particle-based-cloud-modelling)
+
+## Event Calendar
+
+
 
 ## Contirbutions and Contact
 
