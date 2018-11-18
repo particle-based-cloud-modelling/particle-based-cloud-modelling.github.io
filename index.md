@@ -9,27 +9,8 @@ Archives and subscription management:
 
 ## Event Calendar
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.css" integrity="sha256-Tu3DN+5kwrhzlzhNUMuGht2h7cR6ARgKcYemB9u5SzA=" crossorigin="anonymous" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js" integrity="sha256-CutOzxCRucUsn6C6TcEYsauvvYilEniTXldPa6/wu0k=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.js" integrity="sha256-QvhPq+evNjd8JyxSOU5KL3jPYTD7+gWVev1OH763SL0=" crossorigin="anonymous"></script>
-
-<script>
-$(document).ready(function() {
-  $('#calendar').fullCalendar({
-    //events: { url: '/calendar-data', method: 'GET' },
-    events: [ { "title":"workshop @ RIKEN", "start": "2018-11-19", "end": "2018-11-20", "allDay":true, "url":"/events/20181119-kobe/" } ],
-    header: {
-      left: 'prev,next today',
-      center: 'title',
-      right: 'month,listMonth'
-    },
-    navLinks: false,
-    editable: false
-  })
-});
-</script>
-<div id="calendar" style="max-width: 900px; margin: 0 auto;"></div>
+Database of events announced on the mailing list:    
+[https://particle-based-cloud-modelling.github.io/calendar.html](https://particle-based-cloud-modelling.github.io/calendar.html)
 
 ## Contirbutions and Contact
 
