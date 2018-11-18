@@ -16,7 +16,7 @@ Archives and subscription management:
 <script>
 $(document).ready(function() {
   $('#calendar').fullCalendar({
-    events: 'https://particle-based-cloud-modelling.github.io/calendar-data',
+    events: { url: '/calendar-data', method: 'POST' },
     header: {
       left: 'prev,next today',
       center: 'title',
