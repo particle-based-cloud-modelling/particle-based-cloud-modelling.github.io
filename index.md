@@ -5,7 +5,14 @@
 document.addEventListener('DOMContentLoaded', function() {
   var calendarEl = document.getElementById('calendar');
   var calendar = new FullCalendar.Calendar(calendarEl, {
-    events: { url: '/calendar-data' }
+    events: { url: '/calendar-data' },
+    header: {
+      left: 'prev,next today',
+      center: 'title',
+      right: 'month,agendaWeek,agendaDay,listWeek'
+    },
+      navLinks: false,
+      editable: false
   });
   calendar.render();
 });
