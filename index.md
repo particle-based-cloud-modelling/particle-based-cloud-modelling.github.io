@@ -16,7 +16,7 @@ Archives and subscription management:
 <script>
 $(document).ready(function() {
   $('#calendar').fullCalendar({
-    events: { '/calendar-data' },
+    events: '/calendar-data',
     header: {
       left: 'prev,next today',
       center: 'title',
