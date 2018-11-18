@@ -1,26 +1,4 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/superagent/3.8.3/superagent.min.js" integrity="sha256-tjzBJ0J0qR7dusCFJqxqUyav026cK00fn+Phyaviv0k=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.0.0-alpha.2/fullcalendar.min.js" integrity="sha256-SX265qsvJdnDUYPKZkL3pCQVclJSZikwT9c1Q6pPkLE=" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.0.0-alpha.2/fullcalendar.min.css" integrity="sha256-9JXIIG3fFudD4tyIRgOa6MMpId0LJxuIsgrpG1W5NwM=" crossorigin="anonymous" />
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  var calendarEl = document.getElementById('calendar');
-  var calendar = new FullCalendar.Calendar(calendarEl, {
-    events: { url: '/calendar-data' },
-    header: {
-      left: 'prev,next today',
-      center: 'title',
-      right: 'month,listMonth'
-    },
-      navLinks: false,
-      editable: false
-  });
-  calendar.render();
-});
-</script>
-
-# Particle-Based Cloud Modelling
-
-**Research Network Initiative**
+# Particle-Based Cloud Modelling Network Initiative
 
 ## Mailing List
 
@@ -31,6 +9,24 @@ Archives and subscription management:
 
 ## Event Calendar
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.css" integrity="sha256-Tu3DN+5kwrhzlzhNUMuGht2h7cR6ARgKcYemB9u5SzA=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js" integrity="sha256-CutOzxCRucUsn6C6TcEYsauvvYilEniTXldPa6/wu0k=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.js" integrity="sha256-QvhPq+evNjd8JyxSOU5KL3jPYTD7+gWVev1OH763SL0=" crossorigin="anonymous"></script>
+<script>
+$(document).ready(function() {
+  $('#calendar').fullCalendar({
+    events: { '/calendar-data' },
+    header: {
+      left: 'prev,next today',
+      center: 'title',
+      right: 'month,listMonth'
+    },
+    navLinks: false,
+    editable: false
+  })
+});
+</script>
 <div id="calendar"></div>
 
 ## Contirbutions and Contact
