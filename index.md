@@ -16,7 +16,8 @@ Archives and subscription management:
 <script>
 $(document).ready(function() {
   $('#calendar').fullCalendar({
-    events: { url: '/calendar-data', method: 'POST' },
+    //events: { url: '/calendar-data', method: 'GET' },
+    events: [ { "title":"workshop @ RIKEN", "start": "2018-11-19", "end": "2018-11-20", "allDay":true, "url":"/events/20181119-kobe/" } ],
     header: {
       left: 'prev,next today',
       center: 'title',
