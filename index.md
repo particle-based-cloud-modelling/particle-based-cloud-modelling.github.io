@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     header: {
       left: 'prev,next today',
       center: 'title',
-      right: 'month,agendaWeek,agendaDay,listWeek'
+      right: 'month,listMonth'
     },
       navLinks: false,
       editable: false
