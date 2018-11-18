@@ -12,10 +12,13 @@ $(document).ready(function() {
   $('#calendar').fullCalendar({
     //events: { url: '/calendar-data', method: 'GET' },
     events: [ 
-      {"title":"workshop @ RIKEN, Kobe, Japan", "start": "2018-11-19", "end": "2018-11-21", "allDay":true, "url":"http://192.244.104.178/events/ws_pbcm_1811/"},
-      {"title":"UCP2019, Berlin, Germany", "start": "2019-02-25", "end": "2019-03-02", "allDay":true, "url":"https://indico.mpimet.mpg.de/event/1/"},
-      {"title":"EGU GA, Vienna, Austria", "start": "2019-04-07", "end": "2019-04-13", "allDay":true, "url":"https://www.egu2019.eu/"},
-      {"title":"workshop @ Jagiellonian Univ., Cracow, Poland", "start": "2019-04-15", "end": "2019-04-18", "allDay":true, "url":"http://ww2.ii.uj.edu.pl/~arabas/workshop_2019/"}
+      {"title":"UCP2019 submission deadline", "start": "2018-11-15", "end": "2018-11-15", "allDay":true, "url":"https://indico.mpimet.mpg.de/event/1/", "color": "orange"},
+      {"title":"workshop @ RIKEN, Kobe", "start": "2018-11-19", "end": "2018-11-21", "allDay":true, "url":"http://192.244.104.178/events/ws_pbcm_1811/"},
+      {"title":"AMS Annual Meeting, Phoenix", "start": "2019-01-06", "end": "2019-01-11", "allDay":true, "url":"https://annual.ametsoc.org/index.cfm/2019/"},
+      {"title":"EGU GA submission deadline", "start": "2019-01-10", "end": "2019-01-10", "allDay":true, "url":"https://www.egu2019.eu/", "color": "orange"},
+      {"title":"UCP2019, Berlin", "start": "2019-02-25", "end": "2019-03-02", "allDay":true, "url":"https://indico.mpimet.mpg.de/event/1/"},
+      {"title":"EGU GA, Vienna", "start": "2019-04-07", "end": "2019-04-13", "allDay":true, "url":"https://www.egu2019.eu/"},
+      {"title":"workshop @ Jagiellonian Univ., Cracow", "start": "2019-04-15", "end": "2019-04-18", "allDay":true, "url":"http://ww2.ii.uj.edu.pl/~arabas/workshop_2019/"}
     ],
     header: {
       left: 'prev,next today',
