@@ -10,7 +10,7 @@ Archives and subscription management:
 ## Event Calendar
 
 Database of events announced on the mailing list:    
-<iframe width="100%" height="750" src="https://particle-based-cloud-modelling.github.io/calendar.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="750" src="/calendar.html" frameborder="0" allowfullscreen></iframe>
 
 ## Contributions and Contact
 
