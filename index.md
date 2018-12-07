@@ -31,6 +31,13 @@ The list below is open! Please do contact us in order to join.
  (contact person: Slavko Brdar) 
 ```
 
+```
+ German Aerospace Center (DLR)
+ Institute of Atmospheric Physics
+ Oberpfaffenhofen, Germany
+ (contact person: Simon Unterstrasser) 
+```
+
 ```  
  Germany's National Meteorological Service
  Deutscher Wetterdienst - DWD
