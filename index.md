@@ -18,6 +18,12 @@ The list below is open! Please do contact us in order to join.
 
 ### Germany
 ```
+ Max Planck Institute for Meteorology
+ Hamburg, Germany
+ (contact person: Ann Kristin Naumann) 
+```
+
+```
  Leibniz University Hannover
  Institute of Meterology and Climatology
  Hannover, Germany
