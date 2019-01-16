@@ -51,6 +51,15 @@ The list below is open! Please do contact us in order to join.
  (contact person: Axel Seifert) 
 ```
 
+### The Netherlands
+
+```
+  Wageningen University and Research
+  Meteorology and Air Quality Group
+  Wageningen, The Netherlands
+  (contact person: Chiel van Heerwaarden)
+```
+
 ### Japan
 ```
  University of Hyogo
