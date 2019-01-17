@@ -16,6 +16,14 @@ Database of events announced on the mailing list:
 
 The list below is open! Please do contact us in order to join.
 
+### China
+```
+East China Normal Unviersity
+Institute of Atmospheric Science
+Shanghai, China
+(contact person: Limin Zhou)
+```
+
 ### Germany
 ```
  Max Planck Institute for Meteorology
