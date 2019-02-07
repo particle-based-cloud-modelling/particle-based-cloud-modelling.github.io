@@ -68,6 +68,15 @@ Shanghai, China
   (contact person: Chiel van Heerwaarden)
 ```
 
+### Norway
+
+```
+  University of Oslo, Department of Geosciences
+  Section for Meteorology and Oceanography
+  Oslo, Norway
+  (contact person: Xiang-Yu Li)
+```
+
 ### Japan
 ```
  University of Hyogo
