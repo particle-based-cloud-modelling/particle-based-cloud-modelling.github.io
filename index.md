@@ -24,6 +24,21 @@ Shanghai, China
 (contact person: Limin Zhou)
 ```
 
+### France
+```
+École Centrale de Lyon 
+Laboratoire de Mécanique des Fluides et d’Acoustique
+Lyon, France
+(contact person: Aurore Naso)
+```
+
+```
+École Normale Supérieure
+Laboratoire de Physique
+Lyon, France
+(contact person: Alain Pumir)
+```
+
 ### Germany
 ```
  Max Planck Institute for Meteorology
