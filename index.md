@@ -24,6 +24,14 @@ Shanghai, China
 (contact person: Limin Zhou)
 ```
 
+### Finland
+```
+Finnish Meteorological Institute
+Atmospheric Research Centre of Eastern Finland
+Kuopio, Finland
+(contact person: Juha Tonttila)
+```
+
 ### France
 ```
 École Centrale de Lyon 
