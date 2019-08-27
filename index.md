@@ -147,6 +147,13 @@ Lyon, France
 
 ### UK
 ```
+ University of Leeds
+ School of Earth and Environment
+ Leeds, United Kingdom
+ (contact person: Steven Böing)
+```
+
+```
  Met Office
  Exeter, United Kingdom
  (contact person: Adrian Hill)
