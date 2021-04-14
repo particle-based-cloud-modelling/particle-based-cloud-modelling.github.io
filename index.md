@@ -7,14 +7,13 @@ Venue for communications relevant to the development and applications of particl
 Archives and subscription management:    
 [https://mailing.uj.edu.pl/sympa/info/particle-based-cloud-modelling](https://mailing.uj.edu.pl/sympa/info/particle-based-cloud-modelling)
 
-## Event Calendar
+## GMD/ACP Special Issue
 
-Database of events announced on the mailing list:    
-<iframe width="100%" height="750" src="/calendar.html" frameborder="0" allowfullscreen></iframe>
+[Particle-based methods for simulating atmospheric aerosol and clouds (GMD/ACP inter-journal SI)](https://gmd.copernicus.org/articles/special_issue1164.html)
 
 ## Institutions
 
-The list below is open! Please do contact us in order to join.
+The list below is open! Please do contact us (or submit a PR) in order to be listed.
 
 ### China
 ```
