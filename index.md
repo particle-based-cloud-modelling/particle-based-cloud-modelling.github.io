@@ -11,181 +11,31 @@ Archives and subscription management:
 
 [Particle-based methods for simulating atmospheric aerosol and clouds (GMD/ACP inter-journal SI)](https://gmd.copernicus.org/articles/special_issue1164.html)
 
-## Institutions
+## Events
 
-The list below is open! Please do contact us (or submit a PR) in order to be listed.
+#### 2023.01 - session at the AMS Annual Meeting in Denver
 
-### China
-```
-East China Normal Unviersity
-Institute of Atmospheric Science
-Shanghai, China
-(contact person: Limin Zhou)
-```
+"[Probabilistic Particle-Based Methods in Aerosol-Cloud Microphysics Modeling](https://annual.ametsoc.org/index.cfm/2023/program-events/conferences-and-symposia/15th-symposium-on-aerosol-cloud-climate-interactions/)" (within the 15th Symposium on Aerosol-Cloud-Climate Interactions) 
 
-### Finland
-```
-Finnish Meteorological Institute
-Atmospheric Research Centre of Eastern Finland
-Kuopio, Finland
-(contact person: Juha Tonttila)
-```
+#### 2020.05 - session at the EGU General Assembly (virtual)
 
-### France
-```
-École Centrale de Lyon 
-Laboratoire de Mécanique des Fluides et d’Acoustique
-Lyon, France
-(contact person: Aurore Naso)
-```
+"[Lagrangian cloud microphysics: progress and prospects](https://meetingorganizer.copernicus.org/EGU2020/session/36655)"
 
-```
-École Normale Supérieure
-Laboratoire de Physique
-Lyon, France
-(contact person: Alain Pumir)
-```
+#### 2019.05 - workshop at the Jagiellonian University
 
-### Germany
-```
- Max Planck Institute for Meteorology
- Hamburg, Germany
- (contact person: Ann Kristin Naumann) 
-```
+"[Eulerian vs. Lagrangian methods for cloud microphysics](http://ww2.ii.uj.edu.pl/~arabas/workshop_2019/)"
 
-```
- Leibniz University Hannover
- Institute of Meterology and Climatology
- Hannover, Germany
- (contact person: Siegfried Raasch)
-```
+#### 2018.11 - workshop at the University of Hyogo
 
-```
- Jülich Supercomputing Centre
- Institute for Advanced Simulation
- Jülich, Germany
- (contact person: Slavko Brdar) 
-```
+"[Particle-based modeling of cloud microphysics](http://s-shima-lab.sakura.ne.jp/events/ws_pbcm_1811/)"
 
-```
-  Leibniz Institute for Tropospheric Research 
-  Modelling of Atmospheric Processes Department
-  Leipzig, Germany
-  (contact person: Oswald Knoth)
-```
+#### 2017.11 - workshop at the University of Hyogo
 
-```
- German Aerospace Center (DLR)
- Institute of Atmospheric Physics
- Oberpfaffenhofen, Germany
- (contact person: Simon Unterstrasser) 
-```
+"[Particle-based modeling of cloud microphysics](http://s-shima-lab.sakura.ne.jp/events/ws_pbcm_1711/)"
 
-```  
- Germany's National Meteorological Service
- Deutscher Wetterdienst - DWD
- Offenbach, Germany
- (contact person: Axel Seifert) 
-```
+#### 2015.05 - workshop at the University of Warsaw
 
-### The Netherlands
-
-```
-  Wageningen University and Research
-  Meteorology and Air Quality Group
-  Wageningen, The Netherlands
-  (contact person: Chiel van Heerwaarden)
-```
-
-### Norway
-
-```
-  University of Oslo, Department of Geosciences
-  Section for Meteorology and Oceanography
-  Oslo, Norway
-  (contact person: Xiang-Yu Li)
-```
-
-### Japan
-```
- University of Hyogo
- Graduate School of Simulation Studies
- Kobe, Japan
- (contact person: Shin-ichiro Shima) 
-```
-
-### Korea
-```
- Yonsei University
- Turbulence and Geophysical Fluid Dynamics Laboratory
- Seoul, Korea
- (contact person: Yign Noh)
-```
-
-### Poland
-```
- University of Warsaw
- Faculty of Physics, Institute of Geophysics
- Warsaw, Poland
- (contact person: Hanna Pawłowska)
-```
-
-```
- Institute of Meteorology and Water Management
- National Research Institute
- Warsaw, Poland
- (contact person: Bogdan Rosa)
-```
-
-```
- Jagiellonian University
- Faculty of Mathematics and Computer Science
- Cracow, Poland
- (contact person: Sylwester Arabas)
-```
-
-### UK
-```
- University of Leeds
- School of Earth and Environment
- Leeds, United Kingdom
- (contact person: Steven Böing)
-```
-
-```
- Met Office
- Exeter, United Kingdom
- (contact person: Adrian Hill)
-```
-
-### USA
-```
- National Center for Atmospheric Research
- Mesoscale and Microscale Meteorology Laboratory
- Boulder, Colorado, USA
- (contact person: Wojciech Grabowski)
-```
-
-```
- National Oceanic and Atmospheric Administration
- Earth System Research Laboratory
- Boulder, Colorado, USA
- (contact person: Fabian Hoffmann)
-```
-
-```
- Los Alamos National Laboratory
- Computational Physics Division
- Los Alamos, USA
- (contact person: Jon Reisner)
-```
-
-```
- California Institute of Technology
- Climate Dynamics Group
- Pasadena, California, USA
- (contact person: Anna Jaruga)
-```
+"[Eulerian vs. Lagrangian methods for cloud microphysics](http://goo.gl/1fj5H8)"
 
 ## Contributions and Contact
 
