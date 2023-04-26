@@ -5,7 +5,7 @@
 Venue for communications relevant to the development and applications of particle-based models of atmospheric clouds: announcements of meetings, calls for submissions, funding opportunities, scholarships, openings, software/data releases, publications and other notices warranting community-wide dissemination.
 
 Archives and subscription management:    
-[https://mailing.uj.edu.pl/sympa/info/particle-based-cloud-modelling](https://mailing.uj.edu.pl/sympa/info/particle-based-cloud-modelling)
+[https://mail.agh.edu.pl/mailman3/postorius/lists/particle-based-cloud-modelling.mail.agh.edu.pl](https://mail.agh.edu.pl/mailman3/postorius/lists/particle-based-cloud-modelling.mail.agh.edu.pl)
 
 ## GMD/ACP Special Issue
 
