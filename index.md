@@ -13,6 +13,10 @@ Archives and subscription management:
 
 ## Events
 
+#### 2024.01 - session at the AMS Annual Meeting in Baltimore
+
+"[Probabilistic Particle-Based Methods in Aerosol-Cloud Microphysics Modeling](https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Session/65336)" (jointly within the 16th Symposium on Aerosol-Cloud-Climate Interactions and the First Symposium on Cloud Physics) 
+
 #### 2023.01 - session at the AMS Annual Meeting in Denver
 
 "[Probabilistic Particle-Based Methods in Aerosol-Cloud Microphysics Modeling](https://annual.ametsoc.org/index.cfm/2023/program-events/conferences-and-symposia/15th-symposium-on-aerosol-cloud-climate-interactions/)" (within the 15th Symposium on Aerosol-Cloud-Climate Interactions) 
