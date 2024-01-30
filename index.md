@@ -1,4 +1,4 @@
-# Particle-Based Cloud Modelling Network Initiative
+# particle-based-cloud-modelling.network
 
 ## Mailing List
 
