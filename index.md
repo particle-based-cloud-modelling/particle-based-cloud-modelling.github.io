@@ -1,4 +1,4 @@
-# particle-based-cloud-modelling.network
+# particle-based-cloud-modelling.github.io
 
 ## Mailing List
 
